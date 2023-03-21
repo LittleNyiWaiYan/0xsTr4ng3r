@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Cyber Security
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at facebook, instagram, twitter and telegram
 
 <!---
 0xsTr4ng3r/0xsTr4ng3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
